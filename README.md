@@ -1,1 +1,1 @@
-# Eco-Wealth
+# The hackathon by IIT Jodhpur focuses on leveraging finance to drive positive environmental change. The challenge is to encourage customers to make eco-friendly choices while also ensuring financial benefits for banks.
