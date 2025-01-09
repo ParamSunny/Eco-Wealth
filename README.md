@@ -22,3 +22,5 @@ Eco-Wealth is a **FinTech initiative** aimed at incentivizing individuals and bu
 **Payment Systems:-** Payment Gateway(Razorpay)
 
 **Tools:-** VsCode
+
+![alt text](blog-1.jpg)
