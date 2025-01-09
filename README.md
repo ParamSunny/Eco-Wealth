@@ -23,4 +23,4 @@ Eco-Wealth is a **FinTech initiative** aimed at incentivizing individuals and bu
 
 **Tools:-** VsCode
 
-![alt text](Demo2.jpg)
+![alt text](Demo2.png)
