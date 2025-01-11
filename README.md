@@ -23,6 +23,8 @@ Eco-Wealth is a **FinTech initiative** aimed at incentivizing individuals and bu
 
 **Tools:-** VsCode
 
+<div align="center"><img src="https://github.com/ParamSunny/Eco-Wealth/blob/main/Demo.mp4" width="50%" ></div>
+
 ![alt text](Demo2.png)
 
 ![alt text](Demo1.png)
